@@ -1,0 +1,13 @@
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.exe
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.deps.json
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.runtimeconfig.json
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.runtimeconfig.dev.json
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.dll
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\bin\Debug\netcoreapp3.1\LINQCommands.pdb
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.csprojAssemblyReference.cache
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.AssemblyInfoInputs.cache
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.AssemblyInfo.cs
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.csproj.CoreCompileInputs.cache
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.dll
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.pdb
+C:\Users\Vollkan\source\repos\LINQCommands\LINQCommands\obj\Debug\netcoreapp3.1\LINQCommands.genruntimeconfig.cache
